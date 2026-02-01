@@ -1,1 +1,1 @@
-# 1XD-MINI
+bot mini
